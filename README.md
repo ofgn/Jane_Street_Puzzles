@@ -1,6 +1,10 @@
 # Jane Street Puzzles
 
-My attempts at solving the monthly Jane Street puzzles found at
-https://www.janestreet.com/puzzles/archive/.
+My attempts at solving the monthly Jane Street puzzles.
 
-Solutions will be uploaded after submissions for the leaderboard are closed.
+The current puzzle can be found at https://www.janestreet.com/puzzles/archive/.
+
+Status: Solved
+Hint: Look into solving Suduko with linear programming
+
+My solutions will be uploaded after submissions for the leaderboard are closed.
